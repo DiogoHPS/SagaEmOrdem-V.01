@@ -1,9 +1,10 @@
-### SagaEmOrdem
+# SagaEmOrdem
 
 ### Objetivo
 SagaEmOrdem tem como objetivo organizar e exibir filmes, séries e desenhos animados em ordem cronológica baseada na história da própria produção. Além disso, permite que os usuários cadastrados salvem sua ordem cronológica preferida, marquem quais produções já assistiram, e acessem informações detalhadas sobre cada obra, incluindo onde assisti-la, sinopse e avaliações críticas.
-
+<detail>
 ### Índice
+<sumary>
 Recursos Principais
 Tecnologias Utilizadas
 Pré-requisitos
@@ -13,7 +14,8 @@ Estrutura do Projeto
 Contribuição
 Licença
 Recursos Principais
-
+</sumary>
+</details>
 ### Navegação Cronológica
 Exibe filmes, séries e desenhos animados em ordem cronológica.
 ### Cadastro e Perfil de Usuário
